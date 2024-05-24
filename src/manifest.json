@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "PR Assist",
-  "description": "The only useful pull request assistant you can find to get yours merged!",
+  "description": "The useful pull request assistant to get your PR merged",
   "options_page": "options.html",
   "background": {
     "service_worker": "background.bundle.js"

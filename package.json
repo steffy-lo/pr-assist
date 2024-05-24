@@ -1,7 +1,7 @@
 {
   "name": "pr-assist",
   "version": "5.0.4",
-  "description": "The only useful pull request assistant you can find to get yours merged!",
+  "description": "The useful pull request assistant to get your PR merged",
   "license": "MIT",
   "repository": {
     "type": "git",
