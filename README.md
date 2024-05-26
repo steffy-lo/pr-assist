@@ -1,6 +1,17 @@
 # PR Assist
 PR Assist is a web browser extension that helps you create better pull requests on Github faster and smoothly through simple steps
 
+## Setup and installment
+1. Check if your Node.js version is >= 18
+2. Clone this repository
+3. Run npm install to install the dependencies
+4. Run npm start
+5. Load your extension on Chrome following:
+  - Access chrome://extensions/
+  - Check Developer mode
+  - Click on Load unpacked extension
+  - Select the build folder
+
 ## Step 1
 PR Assist will ask you to input the issue number associated to the pull request.
 This is to keep track of development as it will append the necessary keyword to [link it to an existing issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) on Github
