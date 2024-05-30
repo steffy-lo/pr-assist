@@ -1,6 +1,8 @@
 # PR Assist
 PR Assist is a web browser extension that helps you create better pull requests on Github faster and smoothly through simple steps
 
+Demo Video Link: https://youtu.be/kn5XYliaEks
+
 ## Setup and installment
 1. Check if your Node.js version is >= 18
 2. Clone this repository
@@ -38,3 +40,4 @@ The first version of PR Assist is very limited in terms of customization and set
 1. View and change the default values used to assist your PR including title, description, labels, and checklist templates
 2. Dynamic PR templates based on the type of pull request
 3. Assisting on maintaining pull requests after they have been created
+4. Selection from a list of saved templates
